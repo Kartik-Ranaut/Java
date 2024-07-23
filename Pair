@@ -1,0 +1,9 @@
+Pair<Key Type, Value Type> var_name = new Pair<>(key, value);
+
+
+eg:
+Pair p1 = new Pair(3, 4);
+Pair p2 = new Pair(3, 4);
+Pair p3 = new Pair(4, 4);
+ 
+System.out.println(p1.equals(p2) + “ ” + p2.equals(p3));
