@@ -5,7 +5,7 @@ StringBuilder(CharSequence seq): Constructs a string builder that contains the s
 StringBuilder(String str): Constructs a string builder initialized to the contents of the specified string. 
 
 Methods in Java StringBuilder
-StringBuilder append(X x): This method appends the string representation of the X type argument to the sequence.
+<B>kartik</B>StringBuilder append(X x): This method appends the string representation of the X type argument to the sequence.
 StringBuilder appendCodePoint(int codePoint): This method appends the string representation of the codePoint argument to this sequence.
 int capacity(): This method returns the current capacity.
 char charAt(int index): This method returns the char value in this sequence at the specified index.
